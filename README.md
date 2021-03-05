@@ -1,10 +1,10 @@
 # Draggable-Scoreboard
 
-**THIS WAS MADE FOR MINECRAFT VERSION 1.8.9 MIGHT / MIGHT NOT WORK ON OTHER VERSIONS
+THIS WAS MADE FOR MINECRAFT VERSION 1.8.9 MIGHT / MIGHT NOT WORK ON OTHER VERSIONS
 
-*uses Eric Golde's Mod Draggable System
+uses Eric Golde's Mod Draggable System
 
-**Steps to Install
+Steps to Install
 
 1 : Go to GuiIngame.java and press CTRL + F and search for Scoreboard scoreboard = this.mc.theWorld.getScoreboard();
 
@@ -16,8 +16,8 @@
 
 5 : Register it in ModInstances.java
 
-**Then it Should be done you can Modify this however you want but you need to credit me on the website of your client / on the Discord of the Client 
+Then it Should be done you can Modify this however you want but you need to credit me on the website of your client / on the Discord of the Client 
 
-**Please Report any Bugs or Help things to My Discord Dms
+Please Report any Bugs or Help things to My Discord Dms
 
 - 🎮Spider-General🍕#1944
