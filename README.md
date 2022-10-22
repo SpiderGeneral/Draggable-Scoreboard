@@ -18,6 +18,4 @@ Steps to Install
 
 Then it Should be done you can Modify this however you want but you need to credit me on the website of your client / on the Discord of the Client 
 
-Please Report any Bugs or Help things to My Discord Dms
-
-- 🎮Spider-General🍕#1944
+Edit :Made this like 2 years ago, I dont do any client development now so dont expect any updates on this snippet <3
